@@ -1,0 +1,6 @@
+cd C:\Users\b／tsuki\djangogirls
+python -m venv myvenv
+Set-ExecutionPolicy -ExecutionPolicy AllSigned
+
+cd C:\Users\b／tsuki\djangogirls
+myvenv\Scripts\activate
